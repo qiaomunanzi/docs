@@ -27,7 +27,7 @@ import Linkcard from "./components/Linkcard.vue" //链接卡片
 import MyLayout from "./components/MyLayout.vue" //视图过渡
 import fluidborder from "./components/fluidborder.vue" //流体边框仅用于演示
 import backtotop from "./components/backtotop.vue" //返回顶部
-// import notice from "./components/notice.vue" 公告
+// import notice from "./components/notice.vue" //公告
 import MouseClick from "./components/MouseClick.vue"
 import MouseFollower from "./components/MouseFollower.vue"
 
