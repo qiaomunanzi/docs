@@ -25,7 +25,7 @@ export default defineConfig({
   // cleanUrls:true, //开启纯净链接无html
 
 
-  // appearance: true, //默认浅色且开启切换
+  appearance: true, //默认浅色且开启切换
   //启用深色模式
   // appearance:'dark', 
   // appearance:false, // 关闭
