@@ -1,122 +1,122 @@
 {
-    "index_name": "doc",
+    "index_name": "docs",
     "start_urls": [
         {
-            "url": "https://vitepress.yiov.top/preface.html",
+            "url": "https://docs.qxiansen.online/preface.html",
             "selectors_key": "preface",
             "tags": [
                 "preface"
             ]
         },
         {
-            "url": "https://vitepress.yiov.top/getting-started.html",
+            "url": "https://docs.qxiansen.online/getting-started.html",
             "selectors_key": "getting-started",
             "tags": [
                 "getting-started"
             ]
         },
         {
-            "url": "https://vitepress.yiov.top/configuration.html",
+            "url": "https://docs.qxiansen.online/configuration.html",
             "selectors_key": "configuration",
             "tags": [
                 "configuration"
             ]
         },
         {
-            "url": "https://vitepress.yiov.top/page.html",
+            "url": "https://docs.qxiansen.online/page.html",
             "selectors_key": "page",
             "tags": [
                 "page"
             ]
         },
         {
-            "url": "https://vitepress.yiov.top/frontmatter.html",
+            "url": "https://docs.qxiansen.online/frontmatter.html",
             "selectors_key": "frontmatter",
             "tags": [
                 "frontmatter"
             ]
         },
         {
-            "url": "https://vitepress.yiov.top/markdown.html",
+            "url": "https://docs.qxiansen.online/markdown.html",
             "selectors_key": "markdown",
             "tags": [
                 "markdown"
             ]
         },
         {
-            "url": "https://vitepress.yiov.top/team.html",
+            "url": "https://docs.qxiansen.online/team.html",
             "selectors_key": "team",
             "tags": [
                 "team"
             ]
         },
         {
-            "url": "https://vitepress.yiov.top/multi-language.html",
+            "url": "https://docs.qxiansen.online/multi-language.html",
             "selectors_key": "multi-language",
             "tags": [
                 "multi-language"
             ]
         },
         {
-            "url": "https://vitepress.yiov.top/docsearch.html",
+            "url": "https://docs.qxiansen.online/docsearch.html",
             "selectors_key": "docsearch",
             "tags": [
                 "docsearch"
             ]
         },
         {
-            "url": "https://vitepress.yiov.top/assets.html",
+            "url": "https://docs.qxiansen.online/assets.html",
             "selectors_key": "assets",
             "tags": [
                 "assets"
             ]
         },
         {
-            "url": "https://vitepress.yiov.top/style.html",
+            "url": "https://docs.qxiansen.online/style.html",
             "selectors_key": "style",
             "tags": [
                 "style"
             ]
         },
         {
-            "url": "https://vitepress.yiov.top/components.html",
+            "url": "https://docs.qxiansen.online/components.html",
             "selectors_key": "components",
             "tags": [
                 "components"
             ]
         },
         {
-            "url": "https://vitepress.yiov.top/layout.html",
+            "url": "https://docs.qxiansen.online/layout.html",
             "selectors_key": "layout",
             "tags": [
                 "layout"
             ]
         },
         {
-            "url": "https://vitepress.yiov.top/plugin.html",
+            "url": "https://docs.qxiansen.online/plugin.html",
             "selectors_key": "plugin",
             "tags": [
                 "plugin"
             ]
         },
         {
-            "url": "https://vitepress.yiov.top/update.html",
+            "url": "https://docs.qxiansen.online/update.html",
             "selectors_key": "update",
             "tags": [
                 "update"
             ]
         },
         {
-            "url": "https://vitepress.yiov.top/nav/",
+            "url": "https://docs.qxiansen.online/nav/",
             "selectors_key": "nav",
             "tags": [
                 "nav"
             ]
         },
-        "https://vitepress.yiov.top/"
+        "https://docs.qxiansen.online/"
     ],
     "stop_urls": [
-        "https://vitepress.yiov.top/nav/mao.html"
+        "https://docs.qxiansen.online/nav/mao.html"
     ],
     "selectors": {
         "preface": {
