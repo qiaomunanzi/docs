@@ -5,21 +5,21 @@ title: 乔先森的知识库
 titleTemplate: 乔先森的知识库
 
 hero:
-  name: VitePress
-  text: "快速上手中文教程"
-  tagline: 如果你也想搭建它，那跟我一起做吧
+  name: Knowledge base
+  text: "乔先森的知识库"
+  tagline: 边折腾 · 边学习 · 边记录
   image:
     src: /logo-docs.png
-    alt: VitePress
+    alt: 乔先森的知识库
   actions:
     - theme: brand
       text: 开始
       link: /getting-started
     - theme: alt
       text: GitHub
-      link: https://github.com/Yiov/vitepress-doc
+      link: https://github.com/qiaomunanzi
     - theme: sponsor
-      text: 搭建导航
+      text: 导航页
       link: /nav/
 
 features:
