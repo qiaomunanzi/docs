@@ -9,7 +9,7 @@ hero:
   text: "快速上手中文教程"
   tagline: 如果你也想搭建它，那跟我一起做吧
   image:
-    src: ./public/logo-docs.png
+    src: /public/logo-docs.png
     alt: VitePress
   actions:
     - theme: brand
