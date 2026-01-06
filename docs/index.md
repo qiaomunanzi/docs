@@ -1,8 +1,8 @@
 ---
 layout: home
 
-title: VitePress
-titleTemplate: 快速上手中文教程
+title: qxs-docs
+titleTemplate: 乔先森的知识库
 
 hero:
   name: VitePress

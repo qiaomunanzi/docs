@@ -25,7 +25,7 @@ export default defineConfig({
   // cleanUrls:true, //开启纯净链接无html
 
 
-  appearance:true, //默认浅色且开启切换
+  appearance: true, //默认浅色且开启切换
   //启用深色模式
   // appearance:'dark', 
   // appearance:false, // 关闭
@@ -173,7 +173,7 @@ export default defineConfig({
 
     //编辑本页
     editLink: {
-      pattern: 'https://github.com/Yiov/vitepress-doc/edit/main/docs/:path', // 改成自己的仓库
+      pattern: 'https://github.com/qiaomunanzi/docs/:path', // 改成自己的仓库
       text: '在GitHub编辑本页'
     },
 
@@ -367,7 +367,7 @@ export default defineConfig({
     //页脚
     footer: {
       message: 'Released under the MIT License.',
-      copyright: `Copyright © 2023-${new Date().getFullYear()} 备案号：<a href="https://beian.miit.gov.cn/" target="_blank">京****号</a>`,
+      copyright: `Copyright © 2025-${new Date().getFullYear()} 备案号：<a href="https://beian.miit.gov.cn/" target="_blank">冀****号</a>`,
     },
 
 
