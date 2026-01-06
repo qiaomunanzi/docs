@@ -293,9 +293,9 @@ export default defineConfig({
     search: {
       provider: 'algolia',
       options: {
-        appId: 'GZWLIEMA04',
-        apiKey: '875b83e35befb347f866645b4492e0d0',
-        indexName: 'qxs-top',
+        appId: '8F7N7X202G',
+        apiKey: '64e78b0319c7d96270f6487063fc3283',
+        indexName: 'docs',
         locales: {
           root: {
             placeholder: '搜索文档',
