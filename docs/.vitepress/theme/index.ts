@@ -27,7 +27,7 @@ import Linkcard from "./components/Linkcard.vue" //链接卡片
 import MyLayout from "./components/MyLayout.vue" //视图过渡
 import fluidborder from "./components/fluidborder.vue" //流体边框仅用于演示
 import backtotop from "./components/backtotop.vue" //返回顶部
-import notice from "./components/notice.vue" //公告
+//import notice from "./components/notice.vue" //公告
 import MouseClick from "./components/MouseClick.vue"
 import MouseFollower from "./components/MouseFollower.vue"
 
@@ -116,10 +116,10 @@ export default {
 
     // giscus配置
     giscusTalk({
-      repo: 'Yiov/vitepress-doc', //仓库
-      repoId: 'R_kgDOGYFl1A', //仓库ID
+      repo: 'qiaomunanzi/docs', //仓库
+      repoId: 'R_kgDOPtHzLQ', //仓库ID
       category: 'General', // 讨论分类
-      categoryId: 'DIC_kwDOGYFl1M4CayLN', //讨论分类ID
+      categoryId: 'DIC_kwDOPtHzLc4C0ods', //讨论分类ID
       mapping: 'pathname',
       inputPosition: 'bottom',
       lang: 'zh-CN',

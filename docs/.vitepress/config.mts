@@ -31,6 +31,10 @@ export default defineConfig({
   // appearance:false, // 关闭
   // appearance: "force-dark", // 强制深色主题
 
+  //本地搜索
+    search: { 
+      provider: 'local'
+    },
 
   //多语言
   locales: {
