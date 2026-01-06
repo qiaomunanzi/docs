@@ -1,7 +1,7 @@
 ---
 layout: home
 
-title: qxs-docs
+title: 乔先森的知识库
 titleTemplate: 乔先森的知识库
 
 hero:
@@ -9,7 +9,7 @@ hero:
   text: "快速上手中文教程"
   tagline: 如果你也想搭建它，那跟我一起做吧
   image:
-    src: /logo.png
+    src: ./public/logo-docs.png
     alt: VitePress
   actions:
     - theme: brand
