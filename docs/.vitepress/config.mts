@@ -24,8 +24,13 @@ export default defineConfig({
 
   // cleanUrls:true, //开启纯净链接无html
 
+
+  appearance:true, //默认浅色且开启切换
   //启用深色模式
-  //appearance: 'dark',
+  // appearance:'dark', 
+  // appearance:false, // 关闭
+  // appearance: "force-dark", // 强制深色主题
+
 
   //多语言
   locales: {
