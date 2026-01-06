@@ -10,8 +10,8 @@ const { rewrites } = await usePosts();
 
 export default defineConfig({
   lang: 'zh-CN',
-  title: "VitePress",
-  description: "我的vitpress文档教程",
+  title: "乔先森的知识库",
+  description: "乔先森的知识库",
   rewrites,
 
   // #region fav
@@ -25,7 +25,7 @@ export default defineConfig({
   // cleanUrls:true, //开启纯净链接无html
 
   //启用深色模式
-  appearance: 'dark',
+  //appearance: 'dark',
 
   //多语言
   locales: {
