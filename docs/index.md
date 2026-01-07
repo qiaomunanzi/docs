@@ -20,7 +20,7 @@ hero:
       link: https://blog.qxiansen.online/
     - theme: sponsor
       text: 导航页
-      link: https://nav.qxiansen.online/
+      link: https://dh.qxiansen.online/
     - theme: alt
       text: GitHub
       link: https://github.com/qiaomunanzi
